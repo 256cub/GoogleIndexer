@@ -4,11 +4,16 @@
 
  ### Step to install
  1. pip install
-    - pip install -r requirement
-    - pip install lxml
+```
+pip install -r requirement
+pip install lxml
+```
  2. cp .env.template to .env and update it with your database credentials
-    - cp .env.template .env
+```
+cp .env.template .env
+ ```
  
+ 3. copy to input/credentials.json
 
 
 ---

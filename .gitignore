@@ -134,3 +134,5 @@ Main/__pycache__/*
 */pycache/
 
 .env
+
+input/*
