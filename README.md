@@ -1,8 +1,15 @@
 # GoogleIndexer
+### Python script to check/validate/index URLs parsed from sitemap or database
 
 
-pip install python-dotenv
-pip install lxml
+ ### Step to install
+ 1. pip install
+    - pip install -r requirement
+    - pip install lxml
+ 2. cp .env.template to .env and update it with your database credentials
+    - cp .env.template .env
+ 
+
 
 ---
 
